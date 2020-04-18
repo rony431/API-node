@@ -13,6 +13,7 @@ Put the keys provided in the email
 npm install 
 docker-compose build
 docker-compose up
+npm
 ```
 it should run on PORT:8000
 ```bash
